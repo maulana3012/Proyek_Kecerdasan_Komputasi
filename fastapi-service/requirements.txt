@@ -1,0 +1,10 @@
+fastapi==0.115.0
+uvicorn[standard]==0.31.0
+opencv-contrib-python-headless==4.10.0.84
+numpy==2.1.1
+python-multipart==0.0.12
+sqlalchemy==2.0.35
+pymysql==1.1.1
+cryptography==43.0.1
+redis==5.0.8
+elasticsearch==8.15.0
