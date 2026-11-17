@@ -1,0 +1,10 @@
+# Abaikan file environment sensitif
+.env
+.env.*
+!.env.example
+
+# Abaikan folder dataset, model hasil training, dan cache Python
+dataset/
+trainer/
+__pycache__/
+*.pyc
